@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0e46b0c.css",
+    "main.js": "/static/js/main.f3b619a9.js",
+    "static/media/DSC.webp": "/static/media/DSC.b716d48cf0cf96319a78.webp",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/bg.webp": "/static/media/bg.c103ce048df4e616c856.webp",
+    "static/media/2.webp": "/static/media/2.ccfef08824df6632ad20.webp",
+    "static/media/1.webp": "/static/media/1.81be65408eb014943449.webp",
+    "static/media/5.webp": "/static/media/5.901ad960a79928609c7f.webp",
+    "static/media/3.webp": "/static/media/3.d14ef28e519f50cb0303.webp",
+    "static/media/cv.pdf": "/static/media/cv.0b9f72d7be14d4cc126d.pdf",
+    "static/media/6.webp": "/static/media/6.8b73f466445217925333.webp",
+    "static/media/services.webp": "/static/media/services.91297979426b019fd8bd.webp",
+    "static/media/4.webp": "/static/media/4.cf52a3db89c3cfe411b9.webp",
+    "static/media/git.webp": "/static/media/git.6b51750afb1065ebe625.webp",
+    "static/media/logo.webp": "/static/media/logo.5b7df9cb54710d0b4d8c.webp",
+    "static/media/insta.webp": "/static/media/insta.826e49c9af29eee26b55.webp",
+    "static/media/linkedin.webp": "/static/media/linkedin.84277a367dc65e9ecad5.webp",
+    "index.html": "/index.html",
+    "main.f0e46b0c.css.map": "/static/css/main.f0e46b0c.css.map",
+    "main.f3b619a9.js.map": "/static/js/main.f3b619a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e46b0c.css",
+    "static/js/main.f3b619a9.js"
+  ]
+}
